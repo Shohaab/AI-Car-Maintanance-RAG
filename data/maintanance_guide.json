@@ -1,0 +1,12 @@
+[
+    {
+        "task": "Oil Change",
+        "interval": "Every 5000 - 8000 km",
+        "notes": "Use manufacturer recommended engine oil."
+    },
+    {
+        "task": "Wheel Alignment",
+        "interval": "Every 10,000 km",
+        "notes": "Essential to prevent vibration and uneven tire wear."
+    }
+]

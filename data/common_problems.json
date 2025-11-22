@@ -1,0 +1,14 @@
+[
+    {
+        "problem": "Car vibrates at high speed",
+        "causes": "Tire imbalance, bent rim, worn suspension.",
+        "checks": "Check wheel balancing and alignment.",
+        "fix": "Get tires balanced, inspect suspension."
+    },
+    {
+        "problem": "Car jerks when accelerating",
+        "causes": "Dirty fuel injectors, faulty spark plugs, clogged air filter.",
+        "checks": "Inspect air filter, check fuel quality.",
+        "fix": "Clean throttle body, replace spark plugs."
+    }
+]

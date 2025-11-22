@@ -1,0 +1,20 @@
+[
+    {
+        "parts": "Engine",
+        "purpose": "Generates Power To move The Car",
+        "Issues": "overheating ,Noise, Low Oil Pressure",
+        "maintanance": "Regular oil  changes ,Coolent check, Clean Air Filter"
+    },
+    {
+        "part": "Tires",
+        "purpose": "Provide traction and stability.",
+        "issues": "Vibration, uneven wear, low pressure.",
+        "maintenance": "Wheel balancing, alignment, air pressure check."
+    },
+    {
+        "part": "Brakes",
+        "purpose": "Control car speed and stop safely.",
+        "issues": "Screeching sound, brake fade, vibration.",
+        "maintenance": "Brake pad replacement every 30k km."
+    }
+]
